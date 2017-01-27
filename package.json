@@ -1,0 +1,15 @@
+{
+  "name": "blue-black-theme",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "I really like the blue on black syntax theme, but with less washed out colours",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/cxleb/blue-black-theme",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
